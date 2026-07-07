@@ -1,0 +1,6 @@
+{
+  "name": "CYBER AI",
+  "description": "A futuristic personal Jarvis-style AI assistant with bilingual Hinglish speech controls and persistent database memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
